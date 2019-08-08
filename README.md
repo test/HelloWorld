@@ -1,4 +1,7 @@
 HelloWorld
-==========
-
-Create hello world
+==========  
+``` 
+static {
+  System.out.println("HelloWorld");
+}
+```
